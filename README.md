@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This short lesson summarizes the topics we covered in section 23 and why they'll be important to you as a data scientist.
+Well done! In this section, you learned about various resampling techniques and when it would be advantageous to use certain ones.
 
 ## Objectives
 You will be able to:
